@@ -1,0 +1,249 @@
+db.ufs.drop()
+db.ufs.insertMany([
+  {
+    "densidade": 507.46,
+    "sigla": "DF",
+    "nome": "Distrito Federal",
+    "regiao": {
+      "sigla": "CO",
+      "nome": "Centro-Oeste"
+    }
+  },
+  {
+    "densidade": 20.44,
+    "sigla": "GO",
+    "nome": "Goiás",
+    "regiao": {
+      "sigla": "CO",
+      "nome": "Centro-Oeste"
+    }
+  },
+  {
+    "densidade": 4.19,
+    "sigla": "MT",
+    "nome": "Mato Grosso",
+    "regiao": {
+      "sigla": "CO",
+      "nome": "Centro-Oeste"
+    }
+  },
+  {
+    "densidade": 7.93,
+    "sigla": "MS",
+    "nome": "Mato Grosso do Sul",
+    "regiao": {
+      "sigla": "CO",
+      "nome": "Centro-Oeste"
+    }
+  },
+  {
+    "densidade": 59.38,
+    "sigla": "PR",
+    "nome": "Paraná",
+    "regiao": {
+      "sigla": "S",
+      "nome": "Sul"
+    }
+  },
+  {
+    "densidade": 39.36,
+    "sigla": "RS",
+    "nome": "Rio Grande do Sul",
+    "regiao": {
+      "sigla": "S",
+      "nome": "Sul"
+    }
+  },
+  {
+    "densidade": 81.03,
+    "sigla": "SC",
+    "nome": "Santa Catarina",
+    "regiao": {
+      "sigla": "S",
+      "nome": "Sul"
+    }
+  },
+  {
+    "densidade": 112.24,
+    "sigla": "AL",
+    "nome": "Alagoas",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 25.96,
+    "sigla": "BA",
+    "nome": "Bahia",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 60.02,
+    "sigla": "CE",
+    "nome": "Ceará",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 20.63,
+    "sigla": "MA",
+    "nome": "Maranhão",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 71.38,
+    "sigla": "PB",
+    "nome": "Paraíba",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 92.29,
+    "sigla": "PE",
+    "nome": "Pernambuco",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 13,
+    "sigla": "PI",
+    "nome": "Piauí",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 62.56,
+    "sigla": "RN",
+    "nome": "Rio Grande do Norte",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 100.87,
+    "sigla": "SE",
+    "nome": "Sergipe",
+    "regiao": {
+      "sigla": "NE",
+      "nome": "Nordeste"
+    }
+  },
+  {
+    "densidade": 185.42,
+    "sigla": "SP",
+    "nome": "São Paulo",
+    "regiao": {
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  },
+  {
+    "densidade": 86.27,
+    "sigla": "ES",
+    "nome": "Espírito Santo",
+    "regiao": {
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  },
+  {
+    "densidade": 35.35,
+    "sigla": "MG",
+    "nome": "Minas Gerais",
+    "regiao": {
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  },
+  {
+    "densidade": 379.78,
+    "sigla": "RJ",
+    "nome": "Rio de Janeiro",
+    "regiao": {
+      "sigla": "SE",
+      "nome": "Sudeste"
+    }
+  },
+{
+    "densidade": 5.05,
+    "sigla": "AC",
+    "nome": "Acre",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 5.43,
+    "sigla": "AP",
+    "nome": "Amapá",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 2.53,
+    "sigla": "AM",
+    "nome": "Amazonas",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 6.78,
+    "sigla": "PA",
+    "nome": "Pará",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 6.8,
+    "sigla": "RO",
+    "nome": "Rondônia",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 2.83,
+    "sigla": "RR",
+    "nome": "Roraima",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  },
+  {
+    "densidade": 5.7,
+    "sigla": "TO",
+    "nome": "Tocantins",
+    "regiao": {
+      "sigla": "N",
+      "nome": "Norte"
+    }
+  }
+])
+
+
+
