@@ -1,6 +1,6 @@
 /*
 Para os exercícios a seguir, considere o seguinte documento:
-Material de Aula\Aula 2 - Modelagem de dados no MongoDB\exercicio - parte1.txt
+BD-NoSQL\Aula2\exercicio - parte1.db
 */
 
 // Nomes dos estados:
