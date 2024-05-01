@@ -2,6 +2,7 @@ import fs from "fs-extra";
 import { Estacao } from "../types";
 import { connect, disconnect } from "../models/connection";
 import controller from "./EstacaoController";
+
 // Pasta onde estão os arquivos CSV
 const pasta = "./dados";
 function getDataFundacao(data: string) {
