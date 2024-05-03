@@ -3,6 +3,8 @@ import cors from "cors";
 import dotenv from "dotenv";
 import routes from "./routes";
 import { connect } from "./models/connection";
+
+
 dotenv.config();
 // será usado 3000 se a variável de ambiente não tiver sido definida
 const PORT = process.env.PORT || 3000;
