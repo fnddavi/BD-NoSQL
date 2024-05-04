@@ -67,19 +67,19 @@ async function lerArquivosCSV(): Promise<void> {
           for (let i = 0, linha; i < linhasCSV.length; i++) {
             linha = linhasCSV[i].split(";");
             if (linha.length >= 2 && linha[0] === "REGIAO:") {
-              estacao.regiao = linha[1];
+              estacao.regiao = linha[1].trim();
             } else if (linha.length >= 2 && linha[0] === "UF:") {
-              estacao.uf = linha[1];
+              estacao.uf = linha[1].trim();
             } else if (linha.length >= 2 && linha[0] === "ESTACAO:") {
-              estacao.estacao = linha[1];
+              estacao.estacao = linha[1].trim();
             } else if (linha.length >= 2 && linha[0] === "CODIGO (WMO):") {
-              estacao.codigo = linha[1];
+              estacao.codigo = linha[1].trim();
             } else if (linha.length >= 2 && linha[0] === "LATITUDE:") {
-              estacao.latitude = getValue(linha[1]);
+              estacao.latitude = getValue(linha[1].trim());
             } else if (linha.length >= 2 && linha[0] === "LONGITUDE:") {
-              estacao.longitude = getValue(linha[1]);
+              estacao.longitude = getValue(linha[1].trim());
             } else if (linha.length >= 2 && linha[0] === "ALTITUDE:") {
-              estacao.altitude = getValue(linha[1]);
+              estacao.altitude = getValue(linha[1].trim());
             } else if (linha.length >= 2 && linha[0] === "DATA DE FUNDACAO:") {
               estacao.dataFundacao = getDataFundacao(linha[1]);
             } else if (linha.length >= 20 && !linha[0].startsWith("Data")) {
