@@ -1,0 +1,544 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+    },
+    "followers": {
+      "href": null,
+      "total": 2897839
+    },
+    "genres": [
+      "brazilian rock",
+      "latin alternative",
+      "manguebeat",
+      "mpb",
+      "pop rock brasileiro",
+      "rock mineiro",
+      "rock nacional brasileiro"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4C4kpaAdp6aKSkguw40SsU",
+    "id": "4C4kpaAdp6aKSkguw40SsU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2b61503716c9cbb86f6a0658",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051742b61503716c9cbb86f6a0658",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1782b61503716c9cbb86f6a0658",
+        "width": 160
+      }
+    ],
+    "name": "Skank",
+    "popularity": 63,
+    "type": "artist",
+    "uri": "spotify:artist:4C4kpaAdp6aKSkguw40SsU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+    },
+    "followers": {
+      "href": null,
+      "total": 2223341
+    },
+    "genres": [
+      "brazilian rock",
+      "latin alternative",
+      "latin rock",
+      "mpb",
+      "rock nacional brasileiro"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7EM9m7HOXxVgP9oEpDDv70",
+    "id": "7EM9m7HOXxVgP9oEpDDv70",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc379b4361bcfb87f5bd72808",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c379b4361bcfb87f5bd72808",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c379b4361bcfb87f5bd72808",
+        "width": 160
+      }
+    ],
+    "name": "Os Paralamas Do Sucesso",
+    "popularity": 60,
+    "type": "artist",
+    "uri": "spotify:artist:7EM9m7HOXxVgP9oEpDDv70"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
+    },
+    "followers": {
+      "href": null,
+      "total": 1598935
+    },
+    "genres": ["mpb", "pop rock brasileiro", "rock nacional brasileiro"],
+    "href": "https://api.spotify.com/v1/artists/4bOZtegYNmYOe3gMgPtt0H",
+    "id": "4bOZtegYNmYOe3gMgPtt0H",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf25ba98f0de79121ec962369",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f25ba98f0de79121ec962369",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f25ba98f0de79121ec962369",
+        "width": 160
+      }
+    ],
+    "name": "Kid Abelha",
+    "popularity": 58,
+    "type": "artist",
+    "uri": "spotify:artist:4bOZtegYNmYOe3gMgPtt0H"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+    },
+    "followers": {
+      "href": null,
+      "total": 2201502
+    },
+    "genres": [
+      "brazilian rock",
+      "hard rock brasileiro",
+      "pop rock brasileiro",
+      "rock baiano"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2dmQ0vMD3THLMcz7DsvfaT",
+    "id": "2dmQ0vMD3THLMcz7DsvfaT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1183488d72f571f4b079c5d5",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051741183488d72f571f4b079c5d5",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1781183488d72f571f4b079c5d5",
+        "width": 160
+      }
+    ],
+    "name": "Pitty",
+    "popularity": 59,
+    "type": "artist",
+    "uri": "spotify:artist:2dmQ0vMD3THLMcz7DsvfaT"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+    },
+    "followers": {
+      "href": null,
+      "total": 1093091
+    },
+    "genres": ["pop rock brasileiro", "rock nacional brasileiro"],
+    "href": "https://api.spotify.com/v1/artists/7L5YQQJPL1wrmrdigJavV7",
+    "id": "7L5YQQJPL1wrmrdigJavV7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebaeca9dca6030676c1570e3b7",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174aeca9dca6030676c1570e3b7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178aeca9dca6030676c1570e3b7",
+        "width": 160
+      }
+    ],
+    "name": "Ira!",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:7L5YQQJPL1wrmrdigJavV7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+    },
+    "followers": {
+      "href": null,
+      "total": 1393483
+    },
+    "genres": ["axe", "brazilian reggae", "brazilian rock", "mpb", "pagode"],
+    "href": "https://api.spotify.com/v1/artists/4cx31cxKTg5L8blZE24qfZ",
+    "id": "4cx31cxKTg5L8blZE24qfZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb81139e6908629853e4ef667c",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517481139e6908629853e4ef667c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17881139e6908629853e4ef667c",
+        "width": 160
+      }
+    ],
+    "name": "Cidade Negra",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:4cx31cxKTg5L8blZE24qfZ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+    },
+    "followers": {
+      "href": null,
+      "total": 570684
+    },
+    "genres": ["mpb", "samba", "violao"],
+    "href": "https://api.spotify.com/v1/artists/65TbyndeGrDlFd4IkZNfbN",
+    "id": "65TbyndeGrDlFd4IkZNfbN",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1d92dd126420c80e818c0426",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051741d92dd126420c80e818c0426",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1781d92dd126420c80e818c0426",
+        "width": 160
+      }
+    ],
+    "name": "Geraldo Azevedo",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:65TbyndeGrDlFd4IkZNfbN"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+    },
+    "followers": {
+      "href": null,
+      "total": 2150907
+    },
+    "genres": ["australian pop"],
+    "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+    "id": "2AsusXITU8P25dlRNhcAbG",
+    "images": [
+      {
+        "height": 665,
+        "url": "https://i.scdn.co/image/713664fded8bdd28ed84f4b2054815af92999b9c",
+        "width": 999
+      },
+      {
+        "height": 426,
+        "url": "https://i.scdn.co/image/fd922f0f217bcb664847d593d33e5ae61ea877da",
+        "width": 640
+      },
+      {
+        "height": 133,
+        "url": "https://i.scdn.co/image/3d9e13de7311133f8ace6b9ea6a41cc284305341",
+        "width": 200
+      },
+      {
+        "height": 43,
+        "url": "https://i.scdn.co/image/2b65e864ad4652483ea41ee42d2e2ea352f63de0",
+        "width": 64
+      }
+    ],
+    "name": "Gotye",
+    "popularity": 67,
+    "type": "artist",
+    "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 12044855
+    },
+    "genres": ["irish rock", "permanent wave", "rock"],
+    "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+    "id": "51Blml2LZPmy7TTiAg47vQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb76e8d4043d65d5b90dd620c6",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517476e8d4043d65d5b90dd620c6",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17876e8d4043d65d5b90dd620c6",
+        "width": 160
+      }
+    ],
+    "name": "U2",
+    "popularity": 74,
+    "type": "artist",
+    "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+    },
+    "followers": {
+      "href": null,
+      "total": 801986
+    },
+    "genres": ["eurodance", "europop", "new wave pop"],
+    "href": "https://api.spotify.com/v1/artists/5ksRONqssB7BR161NTtJAm",
+    "id": "5ksRONqssB7BR161NTtJAm",
+    "images": [
+      {
+        "height": 1000,
+        "url": "https://i.scdn.co/image/df9a1dd7f15d98cdbef3ee8c44adae7dec4142d6",
+        "width": 1000
+      },
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/df9832bacbaeb43077530fa37a8178cea85cb956",
+        "width": 640
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/1ac301a42a23cb9e941fe8d08cccf8ddd5744fec",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/5ee86988f195486b246862036d1155f5312b39fe",
+        "width": 64
+      }
+    ],
+    "name": "Ace of Base",
+    "popularity": 65,
+    "type": "artist",
+    "uri": "spotify:artist:5ksRONqssB7BR161NTtJAm"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+    },
+    "followers": {
+      "href": null,
+      "total": 537929
+    },
+    "genres": ["lilith", "pop rock"],
+    "href": "https://api.spotify.com/v1/artists/0lJlKQvuM2Sd9DPPyUXcHg",
+    "id": "0lJlKQvuM2Sd9DPPyUXcHg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb09ad20f4097b4d3f95c5f60f",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517409ad20f4097b4d3f95c5f60f",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17809ad20f4097b4d3f95c5f60f",
+        "width": 160
+      }
+    ],
+    "name": "Sixpence None The Richer",
+    "popularity": 63,
+    "type": "artist",
+    "uri": "spotify:artist:0lJlKQvuM2Sd9DPPyUXcHg"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+    },
+    "followers": {
+      "href": null,
+      "total": 3005824
+    },
+    "genres": [
+      "canadian country",
+      "canadian pop",
+      "contemporary country",
+      "country",
+      "country dawn"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL",
+    "id": "5e4Dhzv426EvQe3aDb64jL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb01022f4092cb96e0a91811a5",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517401022f4092cb96e0a91811a5",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17801022f4092cb96e0a91811a5",
+        "width": 160
+      }
+    ],
+    "name": "Shania Twain",
+    "popularity": 69,
+    "type": "artist",
+    "uri": "spotify:artist:5e4Dhzv426EvQe3aDb64jL"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+    },
+    "followers": {
+      "href": null,
+      "total": 2776107
+    },
+    "genres": [
+      "canadian pop",
+      "canadian singer-songwriter",
+      "lilith",
+      "neo mellow",
+      "pop rock",
+      "singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi",
+    "id": "6ogn9necmbUdCppmNnGOdi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174f6a97342ccd47692b7cdf8c0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178f6a97342ccd47692b7cdf8c0",
+        "width": 160
+      }
+    ],
+    "name": "Alanis Morissette",
+    "popularity": 64,
+    "type": "artist",
+    "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    "followers": {
+      "href": null,
+      "total": 19220587
+    },
+    "genres": ["grunge", "permanent wave", "rock"],
+    "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+    "id": "6olE6TJLqED3rqDCT0FyPh",
+    "images": [
+      {
+        "height": 1057,
+        "url": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+        "width": 1000
+      },
+      {
+        "height": 677,
+        "url": "https://i.scdn.co/image/a4e10b79a642e9891383448cbf37d7266a6883d6",
+        "width": 640
+      },
+      {
+        "height": 211,
+        "url": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451",
+        "width": 200
+      },
+      {
+        "height": 68,
+        "url": "https://i.scdn.co/image/e797ad36d56c3fc8fa06c6fe91263a15bf8391b8",
+        "width": 64
+      }
+    ],
+    "name": "Nirvana",
+    "popularity": 78,
+    "type": "artist",
+    "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+    },
+    "followers": {
+      "href": null,
+      "total": 13122350
+    },
+    "genres": ["glam metal", "rock"],
+    "href": "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+    "id": "58lV9VcRSjABbAbfWS6skp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517452aade0d2ea19706074da4b9",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17852aade0d2ea19706074da4b9",
+        "width": 160
+      }
+    ],
+    "name": "Bon Jovi",
+    "popularity": 75,
+    "type": "artist",
+    "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+  }
+]
